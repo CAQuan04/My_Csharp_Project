@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevrtStringStack", "..\Revr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance&PolymorphismSample", "..\Inheritance&PolymorphismSample\Inheritance&PolymorphismSample.csproj", "{44F465EB-1671-436C-B7CC-D6945B4FF34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interhitance&PlymorphismPractice1", "..\Interhitance&PlymorphismPractice\Interhitance&PlymorphismPractice1.csproj", "{100303D4-985A-4859-A5B6-AD7871D75D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interhitance&PlymorphismPractice2", "..\Interhitance&PlymorphismPractice2\Interhitance&PlymorphismPractice2.csproj", "{CC72F51F-8C14-4541-BB67-78F9F0C6A116}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,14 @@ Global
 		{44F465EB-1671-436C-B7CC-D6945B4FF34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44F465EB-1671-436C-B7CC-D6945B4FF34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44F465EB-1671-436C-B7CC-D6945B4FF34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100303D4-985A-4859-A5B6-AD7871D75D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100303D4-985A-4859-A5B6-AD7871D75D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100303D4-985A-4859-A5B6-AD7871D75D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100303D4-985A-4859-A5B6-AD7871D75D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC72F51F-8C14-4541-BB67-78F9F0C6A116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC72F51F-8C14-4541-BB67-78F9F0C6A116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC72F51F-8C14-4541-BB67-78F9F0C6A116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC72F51F-8C14-4541-BB67-78F9F0C6A116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
